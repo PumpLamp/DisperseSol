@@ -1,0 +1,24 @@
+{
+  "name": "drift-disperse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@drift-labs/sdk": "^2.112.0-beta.15",
+    "@inquirer/prompts": "^7.5.0",
+    "@solana/spl-token": "^0.4.13",
+    "@solana/web3.js": "^1.98.0",
+    "bs58": "^6.0.0",
+    "chalk": "^5.4.1",
+    "cli-table": "^0.3.11",
+    "figlet": "^1.8.1",
+    "program-commander": "^14.1.6"
+  }
+}
