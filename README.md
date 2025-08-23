@@ -23,20 +23,25 @@ Perfect for devs and communities who need to send SOL to many wallets at once.
 1. Install [Node.js + npm](https://nodejs.org/) on your computer  
 2. Clone or download this repo  
 3. Open a terminal in the project folder  
-4. Run:
+4. Run
 
+## 💻 Copy repo to your computer
+```bash
+git clone https://github.com/PumpLamp/DisperseSol
+```
+
+## 📦 Install NPM modules
+```bash
+npm install
+```
 
 ## ⚙️ Setup Environments
 1. Copy ".env.example" file  and rename it to ".env".
 2. Enter your funded wallet private key in the main_wallet_pk field of the ".env" file
 
-```bash
-npm install
-```
 
 ## ▶️ Usage
 Start the script with:
-
 ```bash
 npm start
 ```
@@ -50,5 +55,5 @@ Confirm and distribute SOL 🚀
 2. A funded Solana wallet
 
 
-❤️ Much love to the fam — this one’s on the house.
+## ❤️ Much love to the fam — this one’s on the house.
 
