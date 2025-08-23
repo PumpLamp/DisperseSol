@@ -1,9 +1,13 @@
 # ⚡ Stealth SOL Sender / Disperser ⚡
 
+
 🤫 A simple but powerful script that distributes **SOL** across multiple wallets — fast, smooth, and stealthy.  
 Perfect for devs and communities who need to send SOL to many wallets at once.
 
+
 ---
+
+
 
 ## 🚀 Features
 - Disperse SOL to multiple wallets in a single run
@@ -13,10 +17,14 @@ Perfect for devs and communities who need to send SOL to many wallets at once.
 
 ---
 
+
+
 ## 📹 Demo Video
 👉 [![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
+
+
 
 ## 📦 Installation
 
@@ -25,19 +33,23 @@ Perfect for devs and communities who need to send SOL to many wallets at once.
 3. Open a terminal in the project folder  
 4. Run
 
+
 ## 💻 Copy repo to your computer
 ```bash
 git clone https://github.com/PumpLamp/DisperseSol
 ```
+
 
 ## 📦 Install NPM modules
 ```bash
 npm install
 ```
 
+
 ## ⚙️ Setup Environments
 1. Copy ".env.example" file  and rename it to ".env".
 2. Enter your funded wallet private key in the main_wallet_pk field of the ".env" file
+
 
 
 ## ▶️ Usage
@@ -48,6 +60,7 @@ npm start
 The menu will appear in your terminal
 Follow the instructions to set up wallet addresses & amounts
 Confirm and distribute SOL 🚀
+
 
 
 ## 🛠 Requirements
