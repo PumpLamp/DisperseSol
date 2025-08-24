@@ -25,6 +25,9 @@ Perfect for devs and communities who need to send SOL to many wallets at once.
   <source src="./demo/drift-disperse-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<object width="500" height="300" data="./demo/drift-disperse-demo.mp4" type="video/mp4">
+  Your browser does not support embedded videos.
+</object>
 
 ---
 
