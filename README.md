@@ -21,6 +21,10 @@ Perfect for devs and communities who need to send SOL to many wallets at once.
 
 ## 📹 Demo Video
 👉 [![Watch the demo](./demo/drift-disperse-demo.mp4)](./demo/drift-disperse-demo.mp4)
+<video width="640" height="360" controls>
+  <source src="./demo/drift-disperse-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
