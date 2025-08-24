@@ -1,9 +1,9 @@
 # ⚡ Stealth SOL Sender / Disperser ⚡
 
-
 🤫 A simple but powerful script that distributes **SOL** across multiple wallets — fast, smooth, and stealthy.  
 Perfect for devs and communities who need to send SOL to many wallets at once.
 
+<img src="screen_shot.jpg"/>
 
 ---
 
@@ -23,11 +23,7 @@ Perfect for devs and communities who need to send SOL to many wallets at once.
 👉 [![Watch the demo](./demo/drift-disperse-demo.mp4)](./demo/drift-disperse-demo.mp4)
 <video width="640" height="360" controls>
   <source src="./demo/drift-disperse-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
-<object width="500" height="300" data="./demo/drift-disperse-demo.mp4" type="video/mp4">
-  Your browser does not support embedded videos.
-</object>
 
 ---
 
