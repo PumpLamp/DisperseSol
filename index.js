@@ -11,6 +11,7 @@ import { checkBalance, collectSol, driftDisperse } from "./src/drift.js";
 const settings = JSON.parse(fs.readFileSync(".env", "utf8"));
 const program = new Command();
 
+
 console.log(chalk.cyanBright.bold("Stealth Sol Disperser - A tool to disperse SOL to multiple wallets using Drift Protocol"));
 console.log(chalk.yellowBright.bold("Version: 1.0.0"));
 
@@ -136,5 +137,6 @@ function checkSettings() {
     }
     return true;
 }
+
 
 main();
