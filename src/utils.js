@@ -17,7 +17,6 @@ export const sleep = ms => new Promise(r => setTimeout(r, ms))
 export const checkTokenAccountExists = async (conn, tokenAccountAddress) => {
     try {
         const accountInfo = await conn.getAccountInfo(new PublicKey(tokenAccountAddress));
-        // console.log("account info:", accountInfo)
         return accountInfo !== null;
     } catch (e) {
         console.log("Error checking token account existence: ", e);
