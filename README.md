@@ -3,6 +3,7 @@
 🤫 A simple but powerful script that distributes **SOL** across multiple wallets — fast, smooth, and stealthy.  
 Perfect for devs and communities who need to send SOL to many wallets at once.
 
+
 <img src="screen_shot.jpg"/>
 
 ---
